@@ -1,0 +1,9 @@
+C:\Users\Apple\mysixthapp\backend\publish\Backend.exe
+C:\Users\Apple\mysixthapp\backend\publish\appsettings.Development.json
+C:\Users\Apple\mysixthapp\backend\publish\appsettings.json
+C:\Users\Apple\mysixthapp\backend\publish\asset-manifest.json
+C:\Users\Apple\mysixthapp\backend\publish\manifest.json
+C:\Users\Apple\mysixthapp\backend\publish\Backend.dll
+C:\Users\Apple\mysixthapp\backend\publish\Backend.deps.json
+C:\Users\Apple\mysixthapp\backend\publish\Backend.runtimeconfig.json
+C:\Users\Apple\mysixthapp\backend\publish\Backend.pdb

@@ -10,6 +10,9 @@ app.UseStaticFiles();
 
 
 
-app.MapGet("/hello", () => "Hello from C#! 2");
+app.MapFallbackToFile("index.html");
+
+
+app.MapGet("/hello", () => "Hello from C#! 4");
 
 app.Run();
